@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://ip4086202429.mobgslb.tbcache.com/Firmware/Flyme/m3_note/7.8.6.25/cn_beta/20180623011431/929e1be2/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=97cbcc9a8b947e2bcdf7e0ea5fa1bc4f82127e596625e688&ali_redirect_ex_tmining_ts=1614831815&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
